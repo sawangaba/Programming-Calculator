@@ -1,0 +1,20 @@
+Measured Value              Error Term                   Units
+7                              8                           No Unit
+                                                         No Unit
+2.645751311064590590501616 0.04049619353670291720155542     ?No Unit
+Measured Value              Error Term                   Units
+4554.5                              1e3                           No Unit
+                                                         No Unit
+67.48703579206898312117820935546875 0.000002440058304325995663183870     ?No Unit
+Measured Value              Error Term                   Units
+4554.5                              1e3                           km
+                                                         km
+67.48703579206898312117820935546875 0.000002440058304325995663183870     ?km
+Measured Value              Error Term                   Units
+44                              8                           No Unit
+                                                         No Unit
+6.6332495807107996982298656171875 0.002569698959469576329376240     ?No Unit
+Measured Value              Error Term                   Units
+44                              8                           m
+                                                         km
+6.6332495807107996982298656171875 0.002569698959469576329376240     ?m
