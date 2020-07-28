@@ -7,6 +7,7 @@ This software also comes with the support of
 3. Result can be saved into a text file
 4. A variable table in which user can store variables to use them into calculator.
 5. An equation solver, user can type the equation and program will solve the equation according to basic math rules, user can also use variables in equation solver.
+6. User friendly errors that make use of FSM model.
 
 # About the project (technicality)
 
